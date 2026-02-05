@@ -1,0 +1,121 @@
+complaint,category,urgency
+My order has not arrived even after 3 days,Delivery,High
+Delivery was on time,Delivery,Medium
+My order has not arrived even after 10 days,Delivery,High
+Package arrived late but was intact,Delivery,High
+Courier delivered the wrong item,Delivery,Low
+Delivery agent did not contact me,Delivery,Low
+Tracking information is not updating,Delivery,High
+Delivery is delayed with no updates for 9 days,Delivery,Low
+Delivery was on time,Delivery,Low
+Order was cancelled without notice,Delivery,Low
+Package arrived late but was intact,Delivery,High
+My order has not arrived even after 7 days,Delivery,Medium
+Tracking information is not updating,Delivery,Medium
+Tracking information is not updating,Delivery,Medium
+My order has not arrived even after 15 days,Delivery,Medium
+Order was cancelled without notice,Delivery,Low
+Tracking information is not updating,Delivery,Medium
+Delivery is delayed with no updates for 2 days,Delivery,High
+Order was cancelled without notice,Delivery,Medium
+Order was cancelled without notice,Delivery,Medium
+My order has not arrived even after 10 days,Delivery,Low
+Courier delivered the wrong item,Delivery,Medium
+Courier delivered the wrong item,Delivery,Low
+Delivery is delayed with no updates for 2 days,Delivery,High
+Delivery was on time,Delivery,High
+Courier delivered the wrong item,Delivery,High
+Order was cancelled without notice,Delivery,Medium
+Delivery agent did not contact me,Delivery,Low
+Delivery is delayed with no updates for 12 days,Delivery,Low
+Order was cancelled without notice,Delivery,Low
+Product works fine but looks cheap,Product,Medium
+Received a defective product,Product,Medium
+Received a defective product,Product,Medium
+Product arrived damaged,Product,High
+Product quality is very poor,Product,Low
+Product quality is good,Product,High
+Received a defective product,Product,Low
+Product works fine but looks cheap,Product,Low
+Product arrived damaged,Product,High
+Product arrived damaged,Product,Medium
+Product quality is very poor,Product,Low
+Product quality is very poor,Product,Medium
+Product works fine but looks cheap,Product,Low
+Received a defective product,Product,High
+Product quality is good,Product,High
+Product stopped working after a week,Product,Low
+Received a defective product,Product,Low
+Product stopped working after a week,Product,High
+Product arrived damaged,Product,High
+Received a defective product,Product,Medium
+Received a defective product,Product,Low
+Product works fine but looks cheap,Product,Low
+Color and size are different from listing,Product,Medium
+Product arrived damaged,Product,Low
+Product stopped working after a week,Product,Low
+Product quality is very poor,Product,Low
+Product stopped working after a week,Product,Low
+Product works fine but looks cheap,Product,High
+Color and size are different from listing,Product,Medium
+Received a defective product,Product,High
+Incorrect bill generated,Billing,Low
+Extra charges applied without reason,Billing,High
+Amount deducted but transaction failed,Billing,Low
+Amount deducted but transaction failed,Billing,High
+Amount deducted but transaction failed,Billing,Low
+Charged twice for the same order,Billing,High
+Extra charges applied without reason,Billing,Low
+Charged twice for the same order,Billing,Medium
+Payment deducted but order not placed,Billing,Low
+Extra charges applied without reason,Billing,Medium
+Invoice was generated correctly,Billing,High
+Billing details are confusing,Billing,Low
+Refund is taking too long,Billing,Low
+Refund is taking too long,Billing,Medium
+Billing details are confusing,Billing,Low
+Payment deducted but order not placed,Billing,Medium
+Amount deducted but transaction failed,Billing,Medium
+Extra charges applied without reason,Billing,Low
+Payment deducted but order not placed,Billing,High
+Refund is taking too long,Billing,High
+Incorrect bill generated,Billing,Medium
+Invoice was generated correctly,Billing,Medium
+Amount deducted but transaction failed,Billing,Low
+Incorrect bill generated,Billing,High
+Extra charges applied without reason,Billing,Low
+Invoice was generated correctly,Billing,Medium
+Extra charges applied without reason,Billing,High
+Invoice was generated correctly,Billing,Low
+Payment deducted but order not placed,Billing,Medium
+Charged twice for the same order,Billing,Low
+Issue not resolved after multiple calls,Service,High
+No response from support team for days,Service,Low
+Customer service was helpful,Service,Low
+Support staff was rude,Service,Medium
+Poor customer service experience,Service,High
+Support staff was rude,Service,High
+Support resolved my issue slowly,Service,High
+Customer service was helpful,Service,Low
+Support staff was rude,Service,Low
+Poor customer service experience,Service,Low
+No response from support team for days,Service,Low
+Poor customer service experience,Service,Medium
+Poor customer service experience,Service,High
+Customer service was helpful,Service,Medium
+No response from support team for days,Service,Low
+Issue not resolved after multiple calls,Service,High
+Support resolved my issue slowly,Service,Medium
+Issue not resolved after multiple calls,Service,High
+Issue not resolved after multiple calls,Service,Low
+Customer service was helpful,Service,High
+Customer service was helpful,Service,High
+Issue not resolved after multiple calls,Service,Low
+Support staff was rude,Service,Medium
+Customer service was helpful,Service,Medium
+Customer support not responding,Service,Low
+Support staff was rude,Service,Low
+Support executive disconnected call,Service,Low
+Poor customer service experience,Service,Low
+Customer support not responding,Service,Medium
+Customer service was helpful,Service,Low

@@ -13,3 +13,7 @@ Admin dashboard with interactive pie charts
 Complaint acknowledgement tracking
 ## Tech Stack:
 Python, Flask, Scikit-learn, TF-IDF, SQLite, Chart.js, Bootstrap
+## Links:
+User complaint link: https://smart-complaint-management-system-3.onrender.com
+
+Admin dashboard link: https://smart-complaint-management-system-3.onrender.com/admin
